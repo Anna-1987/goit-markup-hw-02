@@ -73,8 +73,9 @@ body {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color:#4d5ae5;
+    text-transform: uppercase;
+    
 }
 .logo-color {
     color: #2e2f42;
