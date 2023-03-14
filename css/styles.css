@@ -74,7 +74,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color:#4d5ae5;
 }
 .logo-color {
     color: #2e2f42;
@@ -94,7 +94,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.list-button{
+.titls-button{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
