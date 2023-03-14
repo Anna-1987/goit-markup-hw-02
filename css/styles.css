@@ -2,6 +2,25 @@ body {
     font-family: Roboto, sans-serif;
     color: #434455;
 }
+.caption {
+    background-color:#2e2f42;}
+
+.caption-lable {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}.captio-but{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
 .allmenu{
     font-style: normal;
     list-style: none;
@@ -10,7 +29,9 @@ body {
     color: #434455;
 }
 .list {
-    list-style:none}
+    list-style:none;
+    color: #434455;
+}
 
 .logo {
     font-family: Raleway, sans-serif;
