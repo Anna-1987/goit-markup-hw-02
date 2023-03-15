@@ -19,6 +19,12 @@ body {
 .email{
     color: #434455;
 }
+.email:hover{
+    color: #404bbf;
+}
+.email:focus{
+    color: #404bbf;
+}
 .menu {
     font-weight: 500;
     line-height: 1.5;
