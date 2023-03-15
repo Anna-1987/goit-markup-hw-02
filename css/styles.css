@@ -2,9 +2,25 @@ body {
     font-family: Roboto, sans-serif;
     color: #434455;
 }
+.link {
+    text-decoration: none;
+    color: #404bbf;
+}
+
+.logo {
+    font-family: Raleway, sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+    text-transform: uppercase; 
+}
+.logo-color-stud{
+    color: #2e2f42;
+}
 .caption {
     background-color:#2e2f42;}
-
 .caption-lable {
     font-size: 56px;
     line-height: 1.07;
@@ -20,6 +36,18 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+}
+.menu {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.menu:hover{
+    color: #404bbf;
+}
+.menu:focus{
+    color: #404bbf; 
 }
 .list-skills{
     font-weight: 500;
@@ -60,45 +88,21 @@ body {
     background-color:#2e2f42;
 }
 .list{
-    font-style: normal;
+    font-style:normal;
     list-style:none;
     line-height: 1.5;
     letter-spacing: 0.02em;
     
 }
-
-.logo {
-    font-family: Raleway, sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    color: #4d5ae5;
-    text-transform: uppercase;
-    
-}
-.logo-color {
-    color: #2e2f42;
-}
 .logo-color-end{
     color: #f4f4fd;
 }
 
-.link {
-    text-decoration: none;
-    color: #404bbf;
-}
 .contacts{
     font-style: normal;
     list-style: none;
 }
-
-.menu {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-} 
+ 
 .titls-button{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
